@@ -1,3 +1,8 @@
+# Recommended alternative
+
+https://developer.mozilla.org/en-US/docs/Web/API/Popover_API
+
+
 # tipsy
 
 Facebook-style tooltip plugin for jQuery
