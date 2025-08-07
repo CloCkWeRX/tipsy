@@ -2,7 +2,7 @@
 
 This library did well for a lot of developers, but as of 2024 there are newer, modern ways that are well supported.
 
-Users are *strongly* recommended to migrate to this standard.
+Users are *strongly* recommended to migrate to this standard with `popover=hint`
 
 https://developer.mozilla.org/en-US/docs/Web/API/Popover_API
 
