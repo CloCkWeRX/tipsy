@@ -5,8 +5,11 @@ This library did well for a lot of developers, but as of 2024 there are newer, m
 Users are *strongly* recommended to migrate to this standard.
 
 https://developer.mozilla.org/en-US/docs/Web/API/Popover_API
+
 https://web.dev/blog/popover-api
+
 https://www.youtube.com/watch?v=0_wgyB64a8I
+
 
 # tipsy
 
